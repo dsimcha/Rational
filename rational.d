@@ -6,7 +6,7 @@ overloaded for both rational-rational and rational-integer operations.
 
 Synopsis:
 ---
-// Compute pi using the generalized continuous fraction approximation.
+// Compute pi using the generalized continued fraction approximation.
 import std.bigint;
 
 enum maxTerm = 30;
